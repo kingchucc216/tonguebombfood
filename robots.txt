@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonguebombfood.com/sitemap.xml
